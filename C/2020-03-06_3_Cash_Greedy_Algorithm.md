@@ -26,7 +26,6 @@ int main(void)
     first = coins / 25;
 
     // 10c second
-    // second = (coins - first * 25) / 10
     int second;
     second = (coins % 25) / 10;
 
