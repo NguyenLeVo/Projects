@@ -1,72 +1,40 @@
 // Writing a encrypting program
-
 // Using Caesar's method
 
 // Libraries
-
 #include <cs50.h> // get_string
-
 #include <stdio.h>
-
 #include <string.h> // string
-
 #include <math.h> // %
-
 #include <stdlib.h> // atoi
-
 #include <stdbool.h> // != 0
-
 #include <ctype.h> // isalpha()
-
-// Call functions
-
 
 // Main function
 int main(int argc, string argv[])
 {
     // Key check function
-    
     if (argc == 2)
     {
-    
         int q = 0;
-        
         for (int i = 0, n = strlen(argv[1]); i < n; i++)
-        
         {
-        
             // Make sure each character is only a number
-            
             if (argv[1][i] >= 48 && argv[1][i] <= 57)
-            
             {
-            
-                q += 0;
-                
+                q += 0;   
             }
-            
             else
-            
             {
-            
-                q++;
-                
+                q++;   
             }
-            
         }
-        
         if (q == 0)
-        
         {
-        
             // Turn the string argv[1] into k
-            
             int k = atoi(argv[1]);   
-            
             // Prompt user for plain original text
-            
             string plain = get_string("plaintext: ");
-            
     
             //Encryption and show the result
             printf("ciphertext: ");
