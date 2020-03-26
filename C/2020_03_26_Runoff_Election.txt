@@ -64,6 +64,8 @@ int main(int argc, string argv[])
     print_winner();
 }
 
+// My portion of code
+
 // Update vote totals given a new vote
 bool vote(string name)
 {
@@ -77,8 +79,6 @@ bool vote(string name)
     }
     return false;
 }
-
-// My portion of code
 
 // Print the winner (or winners) of the election
 void print_winner(void)
