@@ -1,0 +1,41 @@
+#include <stdio.h>
+
+int main(void)
+{
+    int a = 1;
+    int b = 2;
+    
+    int *p = NULL;
+    int *r = NULL;
+    p = &a;
+    r = &b;
+    
+    p = r;
+    
+    printf("Value of a: %i \n", a);
+    printf("Address of a: %p \n\n", &a); 
+    
+    printf("Value of b: %i \n", b); 
+    printf("Address of b: %p \n\n", &b); 
+    
+    printf("Value of pointer 1: %p \n", p);
+    printf("Address of pointer 1: %p \n\n", &p);
+    
+    printf("Value of pointer 2: %p \n", r);
+    printf("Address of pointer 2: %p \n", &r);
+    
+    // Value of a: 1 
+    // Address of a: 0x7ffefa52b81c 
+
+    // Value of b: 2 
+    // Address of b: 0x7ffefa52b818 
+
+    // Value of pointer 1: 0x7ffefa52b818 
+    // Address of pointer 1: 0x7ffefa52b810 
+
+    // Value of pointer 2: 0x7ffefa52b818 
+    // Address of pointer 2: 0x7ffefa52b808 
+    
+    // Value of pointer 1 is now the value of pointer 2 which is the address of b
+    // Because p is assigned the value of r
+}
