@@ -19,9 +19,14 @@ int main(int argc, char *argv[])
     }
 
     // Create the 512 bytes buffer, jpeg counter, and image file
+    // unsigned char has 8 bytes so no need to use uint8_t
     unsigned char *buffer = malloc(512);
     int jpeg_counter = 0;
     FILE *img = NULL;
+    
+    // Allocate 8 spaces (incl the null terminator) to create the img file name
+    // Write it here so need to reiterate this everytime
+    char filename[8];
 
     // Repeat until end of card
     while (fread(buffer, 512, 1, file))
@@ -38,14 +43,11 @@ int main(int argc, char *argv[])
             }
 
             // Start writing the image file
-            // Allocate 8 spaces (incl the null terminator) to create the file name
-            char filename[8];
             sprintf(filename, "%03i.jpg", jpeg_counter);
-            // Start writing
             img = fopen(filename, "w");
 
             // Check if jpg file is successfully created
-            if (img == NULL)
+            if (!img)
             {
                 fclose(file);
                 free(buffer);
