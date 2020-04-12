@@ -1,4 +1,6 @@
 // This program is created to run a spell-checker for any text
+// The main goal is to apply hash tables with closed addressing
+// Meaning to use chaining via linked lists
 
 // Implements a dictionary's functionality
 #include <stdio.h>
