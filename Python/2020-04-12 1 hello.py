@@ -2,6 +2,7 @@
 # No semicolon at the end
 # No new line \n
 # No stdio.h header
+# No need to initialize the data type in the beginning
 
 print("hello, world")
 print("HELLO, WORLD")
