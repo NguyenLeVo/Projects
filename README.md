@@ -1,7 +1,7 @@
 ## This is to document all of my works during and post college.
 
 ### In the MATLAB folder contained:
-- The Joyride Analysis project.
+- A Joyride Analysis project.
 - A System Dynamic project.
 
 ### In the C folder contains games and programs I have created. 
