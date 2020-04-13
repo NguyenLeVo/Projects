@@ -9,6 +9,7 @@ Notably there are:
 - A speller checker program.
 - An image processing program with grayscale, sepia, blur, reflect, and edge detection.
 
-### In the Python folder contains programs I have created.
+### In the Python folder contains programs I have created:
+- To be added
 
 This is to be constantly updated.
