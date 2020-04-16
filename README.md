@@ -10,6 +10,7 @@ Notably there are:
 - An image processing program with grayscale, sepia, blur, reflect, and edge detection.
 
 ### In the Python folder contains programs I have created:
-- To be added
+Notably there are:
+- A dna checker 
 
 This is to be constantly updated.
