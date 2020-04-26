@@ -1,0 +1,5 @@
+To check content of the database files, use sqlite3 database.db
+Then .schema
+Then to exit type .exit
+
+To run the sql file type cat file.sql | sqlite3 database.db
