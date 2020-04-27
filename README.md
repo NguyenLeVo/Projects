@@ -7,10 +7,11 @@
 ### In the C folder contains games and programs I have created. 
 Notably there are:
 - A speller checker program.
-- An image processing program with grayscale, sepia, blur, reflect, and edge detection.
+- An image processing program with grayscale, sepia, blur, reflect, and edge detection filters.
 
 ### In the Python folder contains programs I have created:
 Notably there are:
-- A dna checker 
+- A DNA checker 
+- A name sorting program bases on house and birth year using relational databases (SQLite) 
 
 This is to be constantly updated.
