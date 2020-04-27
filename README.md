@@ -12,6 +12,6 @@ Notably there are:
 ### In the Python folder contains programs I have created:
 Notably there are:
 - [A DNA checker](https://github.com/NguyenLeVo/Projects/blob/master/Python/2020-04-16%20DNA%20Reader.py) 
-- [A name sorting program bases on house and birth year using Python & SQLite] (https://github.com/NguyenLeVo/Projects/tree/master/Python/House_Roster)
+- [A name sorting program bases on house and birth year using Python & SQLite](https://github.com/NguyenLeVo/Projects/tree/master/Python/House_Roster)
 
 This is to be constantly updated.
