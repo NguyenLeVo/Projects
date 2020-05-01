@@ -13,7 +13,7 @@ Notably there are:
 
 ### In the Python folder:
 Notably there are:
-- [A name sorting program bases on house and birth year using Python & SQLite](https://github.com/NguyenLeVo/Projects/tree/master/Python/House_Roster)
+- [A name sorter database based on house and birth year using Python & SQLite](https://github.com/NguyenLeVo/Projects/tree/master/Python/House_Roster)
 - [A DNA checker](https://github.com/NguyenLeVo/Projects/blob/master/Python/2020-04-16%20DNA%20Reader.py) 
 
 ### In the Philosophy folder:
