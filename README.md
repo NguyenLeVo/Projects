@@ -16,6 +16,11 @@ Notably there are:
 - [A name sorter database based on house and birth year using Python & SQLite](https://github.com/NguyenLeVo/Projects/tree/master/Python/House_Roster)
 - [A DNA checker](https://github.com/NguyenLeVo/Projects/blob/master/Python/2020-04-16%20DNA%20Reader.py) 
 
+### In the Web Development folder:
+Notably there are:
+- [A stock trader using Python, Flask, IEX API, HTML, CSS]
+(https://github.com/NguyenLeVo/Projects/tree/master/Web%20Development/2020-05-12%20Stock%20Trading%20Program)
+
 ### In the Philosophy folder:
 - [On False Consciousness: A Marcuse & Lukács Analysis](https://github.com/NguyenLeVo/Projects/blob/master/Philosophy/On%20False%20Consciousness%20-%20A%20Marcuse%20%26%20Luk%C3%A1cs%20Analysis.pdf)
 - [On human nature and state of nature - A comparison between Hobbes, Locke, and Rousseau](https://github.com/NguyenLeVo/Projects/blob/master/Philosophy/On%20human%20nature%20and%20state%20of%20nature%20-%20A%20comparison%20between%20Hobbes%2C%20Locke%2C%20and%20Rousseau.pdf)
