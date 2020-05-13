@@ -18,8 +18,7 @@ Notably there are:
 
 ### In the Web Development folder:
 Notably there are:
-- [A stock trader using Python, Flask, IEX API, HTML, CSS]
-(https://github.com/NguyenLeVo/Projects/tree/master/Web%20Development/2020-05-12%20Stock%20Trading%20Program)
+- [A stock trader using Python, Flask, IEX API, HTML, CSS](https://github.com/NguyenLeVo/Projects/tree/master/Web%20Development/2020-05-12%20Stock%20Trading%20Program)
 
 ### In the Philosophy folder:
 - [On False Consciousness: A Marcuse & Lukács Analysis](https://github.com/NguyenLeVo/Projects/blob/master/Philosophy/On%20False%20Consciousness%20-%20A%20Marcuse%20%26%20Luk%C3%A1cs%20Analysis.pdf)
