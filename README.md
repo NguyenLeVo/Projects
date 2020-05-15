@@ -1,6 +1,12 @@
-## This is to document all of my works during and post college.
+## This is to document my notable projects.
 
 ### Below are some of my interesting projects.
+
+### JSON to CSV and DB Converter (Python, SQL, Pandas)
+- [Link to Repo](https://github.com/NguyenLeVo/json_csv_db_converter)
+
+### Stock trader (Python, Flask, IEX API):
+- [Link to Repo](https://github.com/NguyenLeVo/stock_trader)
 
 ### In the MATLAB folder:
 - [A Kinematics Motion Analysis project](https://github.com/NguyenLeVo/Projects/blob/master/MATLAB/Kinematics%20Project/Final_Project.m)
@@ -15,10 +21,6 @@ Notably there are:
 Notably there are:
 - [A name sorter database based on house and birth year using Python & SQLite](https://github.com/NguyenLeVo/Projects/tree/master/Python/House_Roster)
 - [A DNA checker](https://github.com/NguyenLeVo/Projects/blob/master/Python/2020-04-16%20DNA%20Reader.py) 
-
-### In the Web Development folder:
-Notably there are:
-- [A stock trader using Python, Flask, IEX API, HTML, CSS](https://github.com/NguyenLeVo/Projects/tree/master/Web%20Development/2020-05-12%20Stock%20Trading%20Program)
 
 ### In the Philosophy folder:
 - [On False Consciousness: A Marcuse & Lukács Analysis](https://github.com/NguyenLeVo/Projects/blob/master/Philosophy/On%20False%20Consciousness%20-%20A%20Marcuse%20%26%20Luk%C3%A1cs%20Analysis.pdf)
