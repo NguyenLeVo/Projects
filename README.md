@@ -1,6 +1,12 @@
-## This is to document all of my works during and post college.
+## This is to document my notable projects.
 
 ### Below are some of my interesting projects.
+
+### JSON to CSV and DB Converter (Python, SQL, Pandas)
+- [Link to Repo](https://github.com/NguyenLeVo/json_csv_db_converter)
+
+### Stock trader (Python, Flask, IEX API):
+- [Link to Repo](https://github.com/NguyenLeVo/stock_trader)
 
 ### In the MATLAB folder:
 - [A Kinematics Motion Analysis project](https://github.com/NguyenLeVo/Projects/blob/master/MATLAB/Kinematics%20Project/Final_Project.m)
