@@ -1,7 +1,5 @@
 ## This is to document my notable projects.
 
-### Below are some of my interesting projects.
-
 ### JSON to CSV and DB Converter (Python, SQL, Pandas)
 - [Link to Repo](https://github.com/NguyenLeVo/json_csv_db_converter)
 
